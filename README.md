@@ -1,21 +1,20 @@
-- This game is built using corona sdk (cross platform framework) for android devices.
 
-- It follows all rules of a typical bingo game. However, it provides users with a unique experience through
-a very user friendly and interactive UI.
+- This is an android application built using corona sdk (a cross platform network). 
 
-- Future plans involve alowing multiplayer capabilities via the integration of web sockets and a global presence
-by having the app connect to a database hosted on a server.
+- The application provides an interactive UI to users for a unique experience of playing bingo.  
+
+- Future ideas involve multiplayer capabilities via the integration of web sockets and a global presence
+by connecting the app to a database. 
 
 Testing the app.
 
-- To test the app on your computer, you can download Corona SDK (free) - which is a cross-platform framework for Mobile devices.
+- The app can be tested by downloading Corona SDK (free) - a cross-platform framework for Mobile devices.
 
-- Clone the repo and open main.lua using Corona SDK
-
+- Clone the repo and open main.lua using Corona SDK. 
 
 Issues:
 
-- still need to build a score system that agrees with "BINGO" events.
-- Start button will try to start game even if we havn't chosen the bingo cards.
+- A score system that agrees with "BINGO" events is required. 
+- Game can be initiated without selecting the bingo cards. This issue needs to be resolved for a robust application.
 
 
